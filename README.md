@@ -1,9 +1,6 @@
-# Akash-T-ASE.github.io
-# Akash-T-ASE.github.io
+# Newsletter
 
 
-# Test out the site go niners
-# Josh McDaniels from the Raiders should of been released
 
 Internet Edge Routing with Arista FlexRoute
 By: Alan Sukiennik, SE SouthWest Region
